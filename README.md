@@ -1,2 +1,2 @@
-# insurance-cost-prediction-ml
+# Insurance Cost Prediction ML
 Supervised Machine Learning project to predict insurance premium/cost using regression models trained on an insurance CSV dataset
